@@ -1541,4 +1541,84 @@ details.objective p.milestone-with-details { margin-bottom: 0; }
 
 .networks-aside { border-top: 5px solid #e6007e; padding: 25px 0; }
 
+#nc-root { min-height: 100vh; font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif !important; -webkit-font-smoothing: antialiased; box-sizing: border-box !important; background: #fff6fa; }
+
+#nc-root a, #nc-root button, #nc-root span[role="button"] { border-radius: 0 !important; }
+
+#nc-root header[class*="AppHeader"] { background: #AD005F !important; }
+
+#nc-root a[class*="AppHeaderNavLink"] { color: #ffffff; border-radius: 0 !important; }
+
+#nc-root a[class*="AppHeaderNavLink"] svg > path { fill: #ffffff; }
+
+#nc-root a[class*="AppHeaderNavLink"]:link { color: #ffffff; }
+
+#nc-root a[class*="AppHeaderNavLink"]:link svg > path { fill: #ffffff; }
+
+#nc-root a[class*="AppHeaderNavLink"]:hover { color: #fff6fa; background: #e6007e; }
+
+#nc-root a[class*="AppHeaderNavLink"]:hover svg > path { fill: #ffffff; }
+
+#nc-root a[class*="AppHeaderNavLink"]:focus { color: #0B0C0C; background: #FFED00; }
+
+#nc-root a[class*="AppHeaderNavLink"]:focus svg > path { fill: #0B0C0C; }
+
+#nc-root a[class*="CollectionTopNewButton"] { color: #ffffff; background: #AD005F; border-radius: 0 !important; }
+
+#nc-root a[class*="CollectionTopNewButton"] svg > path { fill: #ffffff; }
+
+#nc-root a[class*="CollectionTopNewButton"]:link { color: #ffffff; background: #AD005F; }
+
+#nc-root a[class*="CollectionTopNewButton"]:link svg > path { fill: #ffffff; }
+
+#nc-root a[class*="CollectionTopNewButton"]:hover { color: #fff6fa; background: #e6007e; }
+
+#nc-root a[class*="CollectionTopNewButton"]:hover svg > path { fill: #ffffff; }
+
+#nc-root a[class*="CollectionTopNewButton"]:focus { color: #0B0C0C; background: #FFED00; }
+
+#nc-root a[class*="CollectionTopNewButton"]:focus svg > path { fill: #0B0C0C; }
+
+#nc-root button[class*="AppHeaderButton"] { color: #ffffff; border-radius: 0 !important; }
+
+#nc-root button[class*="AppHeaderButton"] svg > path { fill: #ffffff; }
+
+#nc-root button[class*="AppHeaderButton"]:hover { color: #fff6fa; background: #e6007e; }
+
+#nc-root button[class*="AppHeaderButton"]:hover svg > path { fill: #ffffff; }
+
+#nc-root button[class*="AppHeaderButton"]:focus { color: #0B0C0C; background: #FFED00; outline: 3px solid #FFED00; }
+
+#nc-root button[class*="AppHeaderButton"]:focus svg > path { fill: #0B0C0C; }
+
+#nc-root div[class*="AppHeaderActions"] span[class*="StyledDropdownButton"] { display: inline; padding: 5px 30px 5px 10px; font-size: 16px; border-radius: 0; background: #AD005F; color: #ffffff; border: 3px solid #ffffff; }
+
+#nc-root a[class*="AppHeaderSiteLink"]:link, #nc-root a[class*="AppHeaderSiteLink"]:visited { color: #ffffff; }
+
+#nc-root a[class*="AppHeaderSiteLink"]:hover { text-decoration: underline; }
+
+#nc-root a[class*="AppHeaderSiteLink"]:focus { color: #0B0C0C; }
+
+#nc-root img[class*="AvatarImage"] { margin: 0 !important; border: 2px solid #ffffff; }
+
+#nc-root label[class*="FieldLabel"] { background: #AD005F; color: #ffffff; }
+
+#nc-root input, #nc-root textarea { border-color: #AD005F !important; }
+
+#nc-root div.cms-editor-raw > div > div, #nc-root div.cms-editor-visual > div > div { border-color: #AD005F !important; }
+
+#nc-root div.cms-editor-raw div[class*="ToolbarContainer"], #nc-root div.cms-editor-visual div[class*="ToolbarContainer"] { background: #AD005F; color: #ffffff; }
+
+#nc-root div.cms-editor-raw div[class*="ToolbarContainer"] svg > path, #nc-root div.cms-editor-visual div[class*="ToolbarContainer"] svg > path { fill: #ffffff; }
+
+#nc-root div.cms-editor-raw span[class*="ToolbarToggleLabel-ToolbarToggleLabel"], #nc-root div.cms-editor-visual span[class*="ToolbarToggleLabel-ToolbarToggleLabel"] { color: #AD005F; }
+
+#nc-root div.cms-editor-raw span[class*="ToolbarToggleLabel"], #nc-root div.cms-editor-visual span[class*="ToolbarToggleLabel"] { color: #ffffff; }
+
+#nc-root div.cms-editor-raw span[class*="ToggleBackground"], #nc-root div.cms-editor-visual span[class*="ToggleBackground"] { background: #fff6fa; }
+
+#nc-root div.cms-editor-raw span[class*="ToggleHandle"], #nc-root div.cms-editor-visual span[class*="ToggleHandle"] { background: #e6007e; }
+
+#nc-root div.cms-editor-raw div[class*="ControlContainer"] div, #nc-root div.cms-editor-visual div[class*="ControlContainer"] div { border-color: #AD005F !important; }
+
 /*# sourceMappingURL=styles.css.map */
